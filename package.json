@@ -1,7 +1,7 @@
 {
   "name": "flow-cmean",
   "version": "0.0.0",
-  "description": "",
+  "description": "Transform stream factory to calculate arithmetic means for streamed data arrays (chunks).",
   "author": {
     "name": "Athan Reines",
     "email": "athan@nodeprime.com"

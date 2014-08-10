@@ -1,7 +1,7 @@
 flow-cmean
 ==========
 
-
+Transform stream factory to calculate arithmetic means for streamed data arrays (chunks).
 
 
 ## Installation
